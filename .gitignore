@@ -1,6 +1,5 @@
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/misc.xml
+.idea
 .gradle
+!gradle-wrapper.jar
+!.gra
 build
-gradle
